@@ -9,7 +9,7 @@ means Salesforce can always reach it (no local tunnel, survives corporate proxie
 **Raw URL (used as `JWKS_URL` in Apex + allow-listed as a Remote Site Setting):**
 
 ```
-https://raw.githubusercontent.com/ulanmule/oauthpoc/main/jwks.json
+https://raw.githubusercontent.com/ulikkg/oauthpoc/main/jwks.json
 ```
 
 - `kid` = `strapi-key-1`. Only the **public** key lives here — this is safe to be public.
