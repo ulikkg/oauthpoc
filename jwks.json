@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS256",
+      "kid": "strapi-key-1",
+      "n": "nbkYxIbeY6GgzqeXLSJ9LUbMt8dnG7IkibmGQdyi-reU0WXvWJBSqnW5OoSXVI86QUjOM2-uHY4BGTNZ62n086YDNSIKSV8FbimfMxQVPfbejSoJewx-My0Oi0jG86DweEV_tUecgtOt3Djn7tbuMLnntfejLzPSJbhriu8-BO2OZH9t0DBdKbBjqmSb72NAG7CGOFojLOdL_Rn6wh9MIa12rmWV7MwIJBqHjthT-u7J9bxWzG9hul0L0KEgBwcw41Tn1l4SasSGYEKhNUcYUb2ayF82yZ7_5_wmvS_QkYTBa3FimMjSnoqoiL0rZmRBtUDVtAmNO24W0gaa1p00xQ",
+      "e": "AQAB"
+    }
+  ]
+}
